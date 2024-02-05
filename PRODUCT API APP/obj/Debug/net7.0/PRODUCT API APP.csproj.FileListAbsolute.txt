@@ -1,0 +1,88 @@
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\appsettings.Development.json
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\appsettings.json
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\PRODUCT API APP.exe
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\PRODUCT API APP.deps.json
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\PRODUCT API APP.runtimeconfig.json
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\PRODUCT API APP.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\PRODUCT API APP.pdb
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.csproj.AssemblyReference.cache
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.AssemblyInfoInputs.cache
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.AssemblyInfo.cs
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.csproj.CoreCompileInputs.cache
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.MvcApplicationPartsAssemblyInfo.cs
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.MvcApplicationPartsAssemblyInfo.cache
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets\msbuild.PRODUCT API APP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets\msbuild.build.PRODUCT API APP.props
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PRODUCT API APP.props
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PRODUCT API APP.props
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets.pack.json
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets.build.json
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets.development.json
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\scopedcss\bundle\PRODUCT API APP.styles.css
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.csproj.CopyComplete
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\refint\PRODUCT API APP.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.pdb
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.genruntimeconfig.cache
+D:\API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\ref\PRODUCT API APP.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\libman.json
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Humanizer.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Npgsql.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\System.CodeDom.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\appsettings.Development.json
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\appsettings.json
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\libman.json
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\PRODUCT API APP.exe
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\PRODUCT API APP.deps.json
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\PRODUCT API APP.runtimeconfig.json
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\PRODUCT API APP.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\PRODUCT API APP.pdb
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Humanizer.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Npgsql.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\bin\Debug\net7.0\System.CodeDom.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.csproj.AssemblyReference.cache
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.AssemblyInfoInputs.cache
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.AssemblyInfo.cs
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.csproj.CoreCompileInputs.cache
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.MvcApplicationPartsAssemblyInfo.cs
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.MvcApplicationPartsAssemblyInfo.cache
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets\msbuild.PRODUCT API APP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets\msbuild.build.PRODUCT API APP.props
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PRODUCT API APP.props
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PRODUCT API APP.props
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets.pack.json
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets.build.json
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\staticwebassets.development.json
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\scopedcss\bundle\PRODUCT API APP.styles.css
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.csproj.CopyComplete
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\refint\PRODUCT API APP.dll
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.pdb
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\PRODUCT API APP.genruntimeconfig.cache
+D:\POSTGRES SQL API\PRODUCT API APP\PRODUCT API APP\obj\Debug\net7.0\ref\PRODUCT API APP.dll
